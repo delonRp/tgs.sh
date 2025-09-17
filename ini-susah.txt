@@ -1,5 +1,3 @@
 TesToken
 
-FreeToken
-
 Mantap
