@@ -32,8 +32,6 @@ anjay
 
 asap
 
-kotka01
-
 asepboy
 
 Maulpempek
