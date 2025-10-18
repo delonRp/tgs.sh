@@ -54,8 +54,6 @@ udinc
 
 gibran
 
-bost
-
 dalimun
 
 10days
