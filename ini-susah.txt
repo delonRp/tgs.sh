@@ -58,5 +58,3 @@ magic
 
 farel
 
-EFWW
-
