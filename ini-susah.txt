@@ -52,8 +52,6 @@ d2
 
 pici
 
-boost
-
 magic
 
 farel
