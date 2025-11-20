@@ -48,7 +48,5 @@ mada
 
 paul3
 
-cd2
-
 elon
 
