@@ -63,3 +63,6 @@ xen
 abah
 
 man
+
+minggu
+
