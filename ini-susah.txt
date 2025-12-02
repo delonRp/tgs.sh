@@ -66,8 +66,6 @@ man
 
 minggu
 
-fi
-
 han
 
 ibal
