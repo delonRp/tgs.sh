@@ -24,8 +24,6 @@ erlan
 
 dalimun
 
-minggu
-
 Nhoman
 
 indowibu
@@ -63,8 +61,6 @@ xen
 abah
 
 man
-
-minggu
 
 han
 
