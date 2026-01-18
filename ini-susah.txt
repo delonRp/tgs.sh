@@ -160,8 +160,6 @@ enzo
 
 nat
 
-2d
-
 hesa
 
 vin
