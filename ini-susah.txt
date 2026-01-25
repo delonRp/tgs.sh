@@ -182,7 +182,5 @@ ferdi
 
 ayu
 
-trial
-
 amy
 
