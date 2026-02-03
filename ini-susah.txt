@@ -204,8 +204,6 @@ penpan
 
 tip
 
-jdjd
-
 syaw
 
 wad
