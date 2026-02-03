@@ -202,8 +202,6 @@ dap
 
 penpan
 
-ror
-
 tip
 
 dhdhvd
