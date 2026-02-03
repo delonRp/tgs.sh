@@ -206,10 +206,6 @@ tip
 
 syaw
 
-wad
-
-1d
-
 jfj
 
 jeff
