@@ -206,7 +206,5 @@ tip
 
 syaw
 
-jfj
-
 jeff
 
