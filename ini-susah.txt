@@ -124,8 +124,6 @@ VIP-JAK
 
 scamp2026
 
-tesbot1
-
 nyawit2026
 
 paluu
